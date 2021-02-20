@@ -4,6 +4,8 @@ Este projeto foi desenvolvido durante o **Bootcamp de Data Science Aplicada (Alu
 
 Como desafio, foi requisitado uma análise da **cobertura vacinal** de alguma doença, podendo retirar informações do DATASUS ou de um outro local, e o assunto que foi escolhido por mim foi sobre o **Sarampo**.
 
+- Análise completa em "**cobertura_vacinal_sarampo_brasil.ipynb**".
+
 Observação: para melhorar a visualização de algumas imagens, por conta da resolução que foi comprometida, recomendo clicar em "Open in Colab", no começo do *notebook*.
 
 # Contexto
