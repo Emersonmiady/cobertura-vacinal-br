@@ -1,6 +1,6 @@
 # Cobertura Vacinal: uma análise dos dados de Sarampo no Brasil
 ---
-Este projeto foi desenvolvido durante o **Bootcamp de Data Science Aplicada (Alura)**, no Módulo 2. Neste módulo treinamos um pouco mais a parte de **Manipulação e Visualização de Dados**, possibilitando assim melhorar as nossas analises futuras. As aulas foram feitas em cima dos dados financeiros do SUS.
+Este projeto foi desenvolvido durante o **Bootcamp de Data Science Aplicada (Alura)**, no Módulo 2. Neste módulo treinamos um pouco mais a parte de **Manipulação e Visualização de Dados**, possibilitando assim melhorar as nossas análises futuras. As aulas foram feitas em cima dos dados financeiros do SUS.
 
 Como desafio, foi requisitado uma análise da **cobertura vacinal** de alguma doença, podendo retirar informações do DATASUS ou de um outro local, e o assunto que foi escolhido por mim foi sobre o **Sarampo**.
 
